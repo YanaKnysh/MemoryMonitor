@@ -1,0 +1,7 @@
+D:\Prog\Projects\Git\MemoryMonitor\MemoryMonitor\bin\Debug\MemoryMonitor.exe.config
+D:\Prog\Projects\Git\MemoryMonitor\MemoryMonitor\bin\Debug\MemoryMonitor.exe
+D:\Prog\Projects\Git\MemoryMonitor\MemoryMonitor\bin\Debug\MemoryMonitor.pdb
+D:\Prog\Projects\Git\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.csprojAssemblyReference.cache
+D:\Prog\Projects\Git\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.csproj.CoreCompileInputs.cache
+D:\Prog\Projects\Git\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.exe
+D:\Prog\Projects\Git\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.pdb
